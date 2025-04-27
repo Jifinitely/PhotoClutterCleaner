@@ -14,8 +14,6 @@ PhotoClutterCleaner is a SwiftUI app for iOS that helps you find and remove dupl
 |:-------------:|:-----------:|:-----------:|
 | ![Duplicates](screenshots/duplicates.png) | ![Junk Cleaner](screenshots/junk.png) | ![Performance](screenshots/performance.png) |
 
-> Place your screenshots in a `screenshots` folder at the root of the project with the filenames above.
-
 ## Getting Started
 
 1. **Clone the repository**
